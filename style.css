@@ -71,10 +71,10 @@ body {
 
 .intro {
   margin: 0 0 120px;
-  background-image: url("img/SAVE_20191209_233617.jpg");
-  background-repeat: no-repeat;
-  background-position: top;
-  background-size: cover;
+  /* background-image: url("img/SAVE_20191209_233617.jpg"); */
+  /* background-repeat: no-repeat; */
+  /* background-position: top; */
+  /* background-size: cover; */
 }
 
 .subheading {
